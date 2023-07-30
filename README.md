@@ -17,7 +17,7 @@ Generalist Software Developer
 
 ## Currently
 
-Based in Istanbul.I make e-commerce sites with laravel php and nodejs.
+Based in Istanbul.I make e-commerce sites with laravel php and nodejs,vuejs and bagisto (https://bagisto.com).
 
 ### Specialized in
 
