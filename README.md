@@ -1,4 +1,4 @@
-# Eralp Karaduman
+# Muhammet Faik Alada
 Generalist Software Developer
 
 | __E-Mail__   | [muhammetfaik@gmail.com](mailto:muhammetfaik@gmail.com)              | 
