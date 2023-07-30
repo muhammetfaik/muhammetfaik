@@ -22,7 +22,7 @@ Based in Istanbul.I make e-commerce sites with laravel php and nodejs,vuejs and 
 ### Specialized in
 
 - Building digital products.
-- Web SPA's with javascript / React.
+- Vuejs and Ruby on Rails.
 - Building server applications with node.js,laravel php on major cloud platforms.
 
 
