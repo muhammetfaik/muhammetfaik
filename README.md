@@ -37,7 +37,9 @@ __Uludağ Electric-Electronic Engineering
 `June 2020 - 2023`
 __Abramak Bilişim Teknopark İstanbul__,   
 _Junior Software Engineer_
-`June 2023 - now`
+
+
+`November 2023 - now`
 __Hayen Bilgi Teknolojileri__,   
 _MidLevel Software Engineer_
 
